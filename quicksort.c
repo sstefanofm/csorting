@@ -20,7 +20,7 @@ swap(int *a, int *b)
 int
 main(void)
 {
-  int arr[] = { 1, 6, 2, 3, 9, 5, 7, 4, 0, 8 };
+  int arr[] = { 0, 9, 6, 2, 5, 4, 8, 3, 1, 7 };
   int size = sizeof(arr) / sizeof(arr[0]);
   int sorted;
 
